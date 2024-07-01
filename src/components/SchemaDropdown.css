@@ -1,0 +1,35 @@
+
+.schema-dropdown {
+    display: flex;
+    align-items: center;
+  }
+  
+  .schema-dropdown select {
+    /* margin-right: 10px; */
+    padding: 10px;
+    font-size: 14px;
+    height: 40px;
+  }
+  
+  .add-schema-button {
+    /* background-color: #008cba; */
+    color: #41b494;
+    /* border: none; */
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    /* border-radius: 4px; */
+    text-decoration: underline !important;
+    text-align: left !important;
+    display: block;
+  }
+
+  .dropdownfield{
+    height: 40px;
+    padding: 10px;
+    width: 100%;
+   border-radius: 5px;
+  }
+
+
+  
